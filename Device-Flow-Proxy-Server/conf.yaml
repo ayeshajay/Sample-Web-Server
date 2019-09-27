@@ -1,0 +1,4 @@
+verification_uri: http://localhost/login/
+time: 5000000
+client_id: PdfQIjZEaS8unbadpqKplzx0fWEa
+grant_type: urn:ietf:params:oauth:grant-type:device_code
